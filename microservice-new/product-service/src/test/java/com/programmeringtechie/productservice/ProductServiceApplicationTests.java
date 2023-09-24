@@ -1,6 +1,5 @@
 package com.programmeringtechie.productservice;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.programmeringtechie.productservice.dto.ProductRequest;
 import com.programmeringtechie.productservice.repository.ProductRepository;
